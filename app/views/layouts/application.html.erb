@@ -9,12 +9,7 @@
   </head>
 
   <body>
-  	<!-- Manzar -->
-  	<% flash.each do |name,msg| %>
-  		<ul>
-  			<li><%= msg %></li>
-  		</ul>
-  	<% end %>
+    <%= render 'layouts/messages' %>
     <%= yield %>
     <!-- yield section basically display
     the files under view -->

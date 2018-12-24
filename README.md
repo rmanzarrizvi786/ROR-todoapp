@@ -104,3 +104,7 @@ Todo.find(params[:id])
 VERSION CONTROL: GIT
 
 CRUD from the UI!!! browser!
+
+Create a partial
+
+Refactor code when it starts to smell
