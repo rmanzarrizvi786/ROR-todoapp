@@ -102,3 +102,5 @@ then i can display the content of the messages that are in flash
 Todo.find(params[:id])
 
 VERSION CONTROL: GIT
+
+CRUD from the UI!!! browser!
